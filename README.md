@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tejeshwaran</h1>
-<h3 align="center">A passionate fullstack developer from India.</h3>
+<h1 align="center">Hello World!👋</h1>
+<h3 align="center">I'm a passionate fullstack developer from India.</h3>
 
 - 🌱 I’m currently learning **Devops.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available [here](link)
 
 - 💬 Ask me about **python, django and react.**
 
