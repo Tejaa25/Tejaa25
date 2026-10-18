@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available [here](link)
-
 - 💬 Ask me about **python, django and react.**
 
 - 📫 How to reach me **tejeshkathir07@gmail.com**
